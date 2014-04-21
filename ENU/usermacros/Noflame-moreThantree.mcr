@@ -1,5 +1,5 @@
 macroScript moreThanTree
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"select more than 3 bone affect vertex(physique only)"
 (	
 	moreThanTree = #{};
