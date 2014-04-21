@@ -3,15 +3,15 @@
     <CUIWindows>
         <Window name="Command Panel" type="S" rank="0" subRank="0" hidden="0" dPanel="8" tabbed="0" curTab="-1" cType="4">
             <FRect left="2933" top="150" right="3125" bottom="902" />
-            <DRect left="1736" top="133" right="1920" bottom="1008" />
+            <DRect left="856" top="133" right="1040" bottom="914" />
             <DRectPref left="2147483647" top="2147483647" right="-2147483648" bottom="-2147483648" />
-            <CurPos left="1736" top="133" right="1920" bottom="1008" floating="0" panelID="8" />
+            <CurPos left="856" top="133" right="1040" bottom="914" floating="0" panelID="8" />
         </Window>
         <Window name="Main Toolbar" type="T" rank="0" subRank="0" hidden="0" dPanel="1" tabbed="0" curTab="-1" cType="1" toolbarRows="1" toolbarType="3">
             <FRect left="1109" top="212" right="1181" bottom="271" />
-            <DRect left="0" top="53" right="1331" bottom="92" />
+            <DRect left="0" top="53" right="1040" bottom="92" />
             <DRectPref left="2147483647" top="2147483647" right="-2147483648" bottom="-2147483648" />
-            <CurPos left="0" top="53" right="1331" bottom="92" floating="0" panelID="1" />
+            <CurPos left="0" top="53" right="1040" bottom="92" floating="0" panelID="1" />
             <Items>
                 <Item typeID="0" type="CTB_PUSHBUTTON" controlID="50034" helpID="0" orientation="31" outEnabledIndex="-1" outDisabledIndex="-1" inDisabledIndex="-1" captionVisibility="0" iconFilePrefix="Maintoolbar" iconImageIndex="0" />
                 <Item typeID="0" type="CTB_PUSHBUTTON" controlID="50035" helpID="0" orientation="31" outEnabledIndex="-1" outDisabledIndex="-1" inDisabledIndex="-1" captionVisibility="0" iconFilePrefix="Maintoolbar" iconImageIndex="2" />
@@ -261,12 +261,11 @@
         </Window>
         <Window name="Tools" type="T" rank="0" subRank="1" hidden="0" dPanel="1" tabbed="0" curTab="-1" cType="1" toolbarRows="1" toolbarType="3">
             <FRect left="582" top="500" right="640" bottom="562" />
-            <DRect left="1331" top="53" right="1484" bottom="92" />
+            <DRect left="1040" top="53" right="1040" bottom="92" />
             <DRectPref left="2147483647" top="2147483647" right="-2147483648" bottom="-2147483648" />
-            <CurPos left="1331" top="53" right="1484" bottom="92" floating="0" panelID="1" />
+            <CurPos left="1040" top="53" right="1040" bottom="92" floating="0" panelID="1" />
             <Items>
                 <Item typeID="2" type="CTB_MACROBUTTON" width="55" height="0" controlID="0" macroTypeID="3" macroType="MB_TYPE_ACTION" actionTableID="647394" imageID="-1" imageName="" actionID="ScriptMan`Os Tools" tip="Script Manager" label="ScriptMan" />
-                <Item typeID="2" type="CTB_MACROBUTTON" width="92" height="0" controlID="0" macroTypeID="3" macroType="MB_TYPE_ACTION" actionTableID="647394" imageID="-1" imageName="" actionID="hideNub`Noflame" tip="Hide Nub" label="Hide Nub" />
             </Items>
         </Window>
     </CUIWindows>
