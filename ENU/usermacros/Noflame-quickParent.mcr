@@ -1,5 +1,5 @@
 macroScript quickParent
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"quick Parent"
 (
 	if selection.count >= 2 do

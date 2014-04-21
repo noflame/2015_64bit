@@ -1,5 +1,5 @@
 macroScript transformCenter
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"use transform center"
 (
 	toolMode.transformCenter()

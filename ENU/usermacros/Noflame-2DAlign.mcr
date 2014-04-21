@@ -1,5 +1,5 @@
 macroScript simpleAlign
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"simple Align"
 (
 	btw = ((selection[selection.count].pos - selection[1].pos ) / (selection.count - 1));

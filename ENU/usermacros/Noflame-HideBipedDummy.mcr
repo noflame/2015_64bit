@@ -1,5 +1,5 @@
 macroScript hideBipedDummy
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"hide biped dummy"
 (
 	for i in helpers where classof i.parent == Biped_Object do

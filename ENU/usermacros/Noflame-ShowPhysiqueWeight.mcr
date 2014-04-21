@@ -1,5 +1,5 @@
 macroScript ShowPhysiqueWeight
-	category:"noFLAME"
+	category:"Noflame Tools"
 	buttontext:"ShowPhysiqueV"
 	toolTip:"Show selected vertices' physique weight in the viewport"
 (

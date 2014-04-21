@@ -1,5 +1,5 @@
 macroScript selectBipePelvis
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"select Biped Pelvis"
 (
 	if classof selection[1] != undefined do  

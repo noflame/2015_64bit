@@ -1,5 +1,5 @@
 macroScript pivotCenter
-	category:"noFLAME"
+	category:"Noflame Tools"
 	toolTip:"use pivot Center"
 (
 	toolMode.pivotCenter()

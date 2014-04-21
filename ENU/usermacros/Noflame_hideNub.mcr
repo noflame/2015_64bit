@@ -1,5 +1,5 @@
 macroScript hideNub
-	category:"Noflame"
+	category:"Noflame Tools"
 	toolTip:"Hide Nub"
 (
 	
